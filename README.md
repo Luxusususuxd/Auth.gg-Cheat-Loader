@@ -16,3 +16,8 @@ Am I allowed to edit this source code?
 -
 
 Ofcourse, that's why I put it in a public github
+
+NOTE
+---
+
+I HAVEN'T UPLOADED ALL NECESSARY FILES. I'LL DO IT LATER
